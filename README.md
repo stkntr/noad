@@ -1,2 +1,2 @@
 # noad
-Sample code using "Oxford Dictionaries API".
+A sample code using "Oxford Dictionaries API".
